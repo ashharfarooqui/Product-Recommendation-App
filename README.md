@@ -274,27 +274,27 @@ Final Score = α×Collaborative + β×Content + γ×Popularity
 │ 🛒 Product Recommendation System                        │
 ├──────────────────────────────────────────────────────────┤
 │                                                          │
-│  👤 Enter User ID: [1046_____________] [Recommend]      │
+│  👤 Enter User ID: [1046_____________] [Recommend]       │
 │                                                          │
 │  🎯 Top Recommendations for You:                        │
-│  ┌────────────────────────────────────────────────────┐ │
-│  │ 1. Product A - Electronics                         │ │
+│  ┌────────────────────────────────────────────────────┐  │
+│  │ 1. Product A - Electronics                         │  │
 │  │    ★★★★☆ (234 ratings) | Score: 0.89             │ │
-│  │    "Highly recommended by similar users"           │ │
-│  ├────────────────────────────────────────────────────┤ │
-│  │ 2. Product B - Home & Garden                       │ │
+│  │    "Highly recommended by similar users"           │  │
+│  ├────────────────────────────────────────────────────┤  │
+│  │ 2. Product B - Home & Garden                       │  │
 │  │    ★★★☆☆ (156 ratings) | Score: 0.85             │ │
-│  │    "Matches your preferences"                      │ │
-│  ├────────────────────────────────────────────────────┤ │
-│  │ 3. Product C - Sports & Outdoors                   │ │
+│  │    "Matches your preferences"                      │  │
+│  ├────────────────────────────────────────────────────┤  │
+│  │ 3. Product C - Sports & Outdoors                   │  │
 │  │    ★★★★★ (89 ratings) | Score: 0.82              │ │
-│  │    "Similar to products you liked"                 │ │
-│  └────────────────────────────────────────────────────┘ │
+│  │    "Similar to products you liked"                 │  │
+│  └────────────────────────────────────────────────────┘  │
 │                                                          │
-│  📊 Algorithm Performance:                             │
-│  ├─ Collaborative: Precision@5 = 0.298                 │
-│  ├─ Content-Based: Coverage = 0.89                     │
-│  └─ Hybrid: NDCG@5 = 0.361                            │
+│  📊 Algorithm Performance:                              │
+│  ├─ Collaborative: Precision@5 = 0.298                   │
+│  ├─ Content-Based: Coverage = 0.89                       │
+│  └─ Hybrid: NDCG@5 = 0.361                               │
 │                                                          │
 └──────────────────────────────────────────────────────────┘
 ```
@@ -545,9 +545,9 @@ This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) 
 
 **Connect with me:**
 - 🔗 [GitHub](https://github.com/ashharfarooqui)
-- 💼 [LinkedIn](https://linkedin.com/in/ashharfarooqui)
-- 🌐 [Portfolio](https://ashharfarooqui.com)
-- 📧 Email: ashhaar.farooqui@gmail.com
+- 💼 [LinkedIn](https://linkedin.com/in/ashhar-farooqui)
+- 🌐 [Portfolio](#)
+- 📧 Email: ashhar.farooqui07@gmail.com
 
 ---
 
@@ -584,7 +584,7 @@ For questions and discussions, visit the [Discussions](https://github.com/ashhar
 </p>
 
 <p align="center">
-  Made with ❤️ and ☕ in Bengaluru
+  Made with ❤️ and ☕ by Ashhar
 </p>
 
 ---
