@@ -584,7 +584,7 @@ For questions and discussions, visit the [Discussions](https://github.com/ashhar
 </p>
 
 <p align="center">
-  Made with ❤️ and ☕ by Ashhar
+  Made with ❤️ and ☕ by Ashhar Farooqui
 </p>
 
 ---
